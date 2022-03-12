@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Challenge Chapter 2 </string>
+    <string name="go_ride">GoRide</string>
+    <string name="go_car">GoCar</string>
+    <string name="go_food">GoFood</string>
+    <string name="go_send">GoSend</string>
+    <string name="go_mart">GoMart</string>
+    <string name="go_pulsa">GoPulsa</string>
+    <string name="check_in">Check in</string>
+    <string name="more">Lainnya</string>
+    <string name="bar_xp">193 XP lagi ada Harta Karun</string>
+    <string name="bar_desc">Harta karun bentar lagi hilang</string>
+    <string name="pay">Bayar</string>
+    <string name="top_up">Isi Saldo</string>
+    <string name="explore">Eksplor</string>
+    <string name="quick_access">Akses cepat</string>
+    <string name="title_voucher">Ada voucher nganggur, nih</string>
+    <string name="title_restaurant">Restoran Terdekat</string>
+    <string name="ads_title">Festival Idaman Perempuan</string>
+    <string name="ads_desc">Temukan kebutuhan cantik-mu hemat pakai Gopay dengan cashback 50%. Klik</string>
+    <string name="home">Beranda</string>
+    <string name="promos">Promo</string>
+    <string name="orders">Pesanan</string>
+    <string name="chat">Chat</string>
+</resources>
